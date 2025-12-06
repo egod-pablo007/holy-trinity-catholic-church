@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zxx">
-
 <head>
     <!-- Meta Options -->
     <meta charset="utf-8">
@@ -29,7 +28,6 @@
     <!-- Responsive -->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 </head>
-
 <body>
     <!-- Loader Start -->
     <div class="preloader" id="preloader">
@@ -408,5 +406,4 @@
     <!-- Custom Js -->
     <script src="assets/js/custom.js"></script>
 </body>
-
 </html>
